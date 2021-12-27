@@ -1,15 +1,18 @@
-# Hi, I’m Theeraphat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+## Hi, I’m Theeraphat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 
-
-![banner](https://user-images.githubusercontent.com/96657413/147476860-b36f30cb-fa81-4db3-ba69-fb476623f9c0.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Wellcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+<!-- ![banner](https://user-images.githubusercontent.com/96657413/147476860-b36f30cb-fa81-4db3-ba69-fb476623f9c0.png) -->
 
 - 📓 I’m a student.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React and Python.
 - ✨ I like everything about programming.
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3raphat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Coding" width="200" src="undraw_code_typing_re_p8b9.svg">
 
-<!-- <img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/z1vpjHAq1o8"> -->
+
+<!-- <img align="float" alt="Coding" width="200" src="undraw_code_typing_re_p8b9.svg"> -->
 
 
 <!--
