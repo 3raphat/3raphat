@@ -3,7 +3,7 @@
 ![banner](https://user-images.githubusercontent.com/96657413/147476860-b36f30cb-fa81-4db3-ba69-fb476623f9c0.png)
 
 - 📓 I’m a student.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React and Python.
 - ✨ I like everything about programming.
 
 
