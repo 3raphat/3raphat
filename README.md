@@ -1,4 +1,4 @@
-## < Hi, I’m Theeraphat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> />
+## < Hi, I’m Theeraphat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Wellcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 <!-- ![banner](https://user-images.githubusercontent.com/96657413/147476860-b36f30cb-fa81-4db3-ba69-fb476623f9c0.png) -->
