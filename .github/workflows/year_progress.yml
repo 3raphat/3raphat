@@ -1,0 +1,29 @@
+name: Generate Year Progress Bar
+
+on:
+  schedule:
+    # Schedule the action to run every day at 12:00 AM UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  generate_progress_bar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Progress Bar
+        run: python generate_progress_bar.py > README.md
+
+      - name: Commit Progress Bar
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update year progress bar"
+          git push
