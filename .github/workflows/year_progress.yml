@@ -15,15 +15,15 @@ jobs:
           python-version: "3.x"
 
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Generate Progress Bar
         run: python generate_progress_bar.py > README.md
 
       - name: Commit Progress Bar
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add README.md
           git commit -m "Update year progress bar"
           git push
