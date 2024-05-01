@@ -1,3 +1,7 @@
-### Hi there 👋
+### Hi there :wave:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/556060331252776972)](https://discord.com/users/556060331252776972)
+:hourglass_flowing_sand: **Year progress**
+
+```txt
+2024 [################                                  ] 33.06%
+```
