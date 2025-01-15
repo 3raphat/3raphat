@@ -3,5 +3,5 @@
 :hourglass_flowing_sand: **Year progress**
 
 ```txt
-2025 [#                                                 ] 3.56%
+2025 [#                                                 ] 3.84%
 ```
